@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace CLICK_SOUND
+namespace KeyboardClick
 {
     static class OptionsController
     {

@@ -7,7 +7,7 @@ using Microsoft.DirectX.DirectSound;
 using DS = Microsoft.DirectX.DirectSound;
 using System.Windows.Forms;
 
-namespace CLICK_SOUND
+namespace KeyboardClick
 {
     class SoundController
     {

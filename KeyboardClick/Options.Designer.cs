@@ -1,4 +1,4 @@
-﻿namespace CLICK_SOUND
+﻿namespace KeyboardClick
 {
     partial class Options
     {

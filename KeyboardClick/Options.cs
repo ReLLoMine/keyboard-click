@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Media;
 
-namespace CLICK_SOUND
+namespace KeyboardClick
 {
     public partial class Options : Form
     {

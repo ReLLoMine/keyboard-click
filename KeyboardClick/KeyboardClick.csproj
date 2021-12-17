@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9F4CFCD1-BB25-4ED2-A3DE-D2FAFD2BF5A3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CLICK_SOUND</RootNamespace>
+    <RootNamespace>KeyboardClick</RootNamespace>
     <AssemblyName>keyboard-click</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

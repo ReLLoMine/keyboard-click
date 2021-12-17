@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Linq;
 
-namespace CLICK_SOUND
+namespace KeyboardClick
 {
     public class KeyHandler
     {

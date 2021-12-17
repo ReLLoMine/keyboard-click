@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLICK_SOUND", "CLICK_SOUND\CLICK_SOUND.csproj", "{9F4CFCD1-BB25-4ED2-A3DE-D2FAFD2BF5A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardClick", "KeyboardClick\KeyboardClick.csproj", "{9F4CFCD1-BB25-4ED2-A3DE-D2FAFD2BF5A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

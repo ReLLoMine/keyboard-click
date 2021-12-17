@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.Reflection;
 
-namespace CLICK_SOUND
+namespace KeyboardClick
 {
     public class Notifier
     {
